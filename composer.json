@@ -10,7 +10,8 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": ">=4.1 <6.0"
+        "illuminate/support": "^5.0 || ^6.0",
+        "laravel/helper": "^1.1"
     },
     "suggest": {
         "illuminate/filesystem": "Save settings to a JSON file.",
